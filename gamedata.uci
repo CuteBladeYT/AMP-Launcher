@@ -1,5 +1,5 @@
 --game:
   --name: Protector
   --version: 0.1.0
-  --platform: wine32, linux
+  --platform: win32, linux
   --gln: Protector.exe, Protector.x86_64

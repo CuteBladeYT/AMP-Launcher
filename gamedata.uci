@@ -1,3 +1,5 @@
 --game:
-  --name: "Protector"
+  --name: Protector
   --version: 0.1.0
+  --platform: wine32
+  --gln: Protector.exe

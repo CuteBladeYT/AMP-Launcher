@@ -3,3 +3,9 @@
   --version: 0.1.0
   --platform: win32, linux
   --gln: Protector.exe, Protector.x86_64
+
+--game:
+  --name: Logic++
+  --version: 1.0
+  --platform: win32, linux
+  --gln: Logic.exe, Logic.x86_64

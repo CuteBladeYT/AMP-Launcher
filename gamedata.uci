@@ -1,11 +1,5 @@
---game:
+--app:
   --name: Protector
   --version: 0.1.0
   --platform: win32, linux
   --gln: Protector.exe, Protector.x86_64
-
---game:
-  --name: UCIDEV
-  --version: 1.0
-  --platform: linux
-  --gln: UCIDEV.x86_64
